@@ -45,6 +45,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09E. Longer Line", "09E. Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Cube Properties", "10. Cube Properties\10. Cube Properties.csproj", "{7486A6CA-E7E2-4CAD-B939-02FBF263E1C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Geometry Calculator", "11. Geometry Calculator\11. Geometry Calculator.csproj", "{69D448D2-219F-4BD4-92B2-E63DF6521269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Master Numbers", "12. Master Numbers\12. Master Numbers.csproj", "{B87D7BA9-1BD5-46CD-A7E7-49F837EB36C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Factorial", "13. Factorial\13. Factorial.csproj", "{9E648D3A-958F-4658-9A59-3D93D659C879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Factorial Trailing Zeroes", "14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes.csproj", "{93E9D598-D32E-49AF-9ECD-49B42046C5A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +143,22 @@ Global
 		{7486A6CA-E7E2-4CAD-B939-02FBF263E1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7486A6CA-E7E2-4CAD-B939-02FBF263E1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7486A6CA-E7E2-4CAD-B939-02FBF263E1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D448D2-219F-4BD4-92B2-E63DF6521269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D448D2-219F-4BD4-92B2-E63DF6521269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D448D2-219F-4BD4-92B2-E63DF6521269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D448D2-219F-4BD4-92B2-E63DF6521269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87D7BA9-1BD5-46CD-A7E7-49F837EB36C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87D7BA9-1BD5-46CD-A7E7-49F837EB36C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87D7BA9-1BD5-46CD-A7E7-49F837EB36C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87D7BA9-1BD5-46CD-A7E7-49F837EB36C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E648D3A-958F-4658-9A59-3D93D659C879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E648D3A-958F-4658-9A59-3D93D659C879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E648D3A-958F-4658-9A59-3D93D659C879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E648D3A-958F-4658-9A59-3D93D659C879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E9D598-D32E-49AF-9ECD-49B42046C5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E9D598-D32E-49AF-9ECD-49B42046C5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E9D598-D32E-49AF-9ECD-49B42046C5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E9D598-D32E-49AF-9ECD-49B42046C5A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
