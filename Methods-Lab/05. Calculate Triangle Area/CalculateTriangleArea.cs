@@ -13,7 +13,6 @@ class CalculateTriangleArea
     static double GetTriangleArea(double baseSide, double height)
     {
         return (baseSide * height) / 2;
-
     }
 }
 
